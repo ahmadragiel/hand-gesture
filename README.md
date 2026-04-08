@@ -30,7 +30,7 @@ ini adalah contoh, Setiap kata bisa diganti sesuai keinginan
 | 🤘 Jempol + telunjuk `(1,1,0,0,0)` | *"EZ!"* |
 | 👍 Jempol saja `(1,0,0,0,0)` | *"Sip!"* |
 | ☝️ Telunjuk saja `(0,1,0,0,0)` | *"nama saya..."* |
-| ✌️ Telunjuk + tengah `(0,1,1,0,0)` | *"Abdu Nizam Al Latief"* |
+| ✌️ Telunjuk + tengah `(0,1,1,0,0)` | *"Ahmad Ragiel Zaini"* |
 | 🤟 Telunjuk + tengah + manis `(0,1,1,1,0)` | *"Terima kasih!"* |
 | 🤙 4 jari kecuali jempol `(0,1,1,1,1)` | *"Salam kenal ya!"* |
 | 🖐️ Semua jari terbuka `(1,1,1,1,1)` | *"Halo semuanya!"* |
@@ -108,7 +108,3 @@ hand-gesture-perkenalan/
 **Ahmad Ragiel Zaini**  
 
 ---
-
-## 📄 Lisensi
-
-Project ini dibuat untuk keperluan edukasi.
